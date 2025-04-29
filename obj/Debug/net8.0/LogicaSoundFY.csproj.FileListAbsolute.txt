@@ -1,0 +1,30 @@
+C:\dev\Logica SoundFY\LogicaSoundFY\bin\Debug\net8.0\LogicaSoundFY.exe
+C:\dev\Logica SoundFY\LogicaSoundFY\bin\Debug\net8.0\LogicaSoundFY.deps.json
+C:\dev\Logica SoundFY\LogicaSoundFY\bin\Debug\net8.0\LogicaSoundFY.runtimeconfig.json
+C:\dev\Logica SoundFY\LogicaSoundFY\bin\Debug\net8.0\LogicaSoundFY.dll
+C:\dev\Logica SoundFY\LogicaSoundFY\bin\Debug\net8.0\LogicaSoundFY.pdb
+C:\dev\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.AssemblyInfoInputs.cache
+C:\dev\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.AssemblyInfo.cs
+C:\dev\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.csproj.CoreCompileInputs.cache
+C:\dev\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.sourcelink.json
+C:\dev\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.dll
+C:\dev\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\refint\LogicaSoundFY.dll
+C:\dev\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.pdb
+C:\dev\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.genruntimeconfig.cache
+C:\dev\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\ref\LogicaSoundFY.dll
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\bin\Debug\net8.0\LogicaSoundFY.exe
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\bin\Debug\net8.0\LogicaSoundFY.deps.json
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\bin\Debug\net8.0\LogicaSoundFY.runtimeconfig.json
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\bin\Debug\net8.0\LogicaSoundFY.dll
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\bin\Debug\net8.0\LogicaSoundFY.pdb
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.AssemblyInfoInputs.cache
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.AssemblyInfo.cs
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.csproj.CoreCompileInputs.cache
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.sourcelink.json
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.dll
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\refint\LogicaSoundFY.dll
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.pdb
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\LogicaSoundFY.genruntimeconfig.cache
+C:\dev\Projeto estagio\Logica SoundFY\LogicaSoundFY\obj\Debug\net8.0\ref\LogicaSoundFY.dll
